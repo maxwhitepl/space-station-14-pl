@@ -1,7 +1,7 @@
 ﻿Entries:
-- author: perryprog
+- author: MaxWhitepl
   changes:
-  - message: Fixed board game areas sometimes overlapping with those of other board
+  - message: Spolszczanie
       games.
     type: Fix
   id: 8822

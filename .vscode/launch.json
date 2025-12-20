@@ -11,6 +11,15 @@
             "program": "${workspaceFolder}/bin/Content.Client/Content.Client.dll",
             "args": [],
             "console": "internalConsole",
+            "runtimeArgs": [
+                "-gcServer",           // Włącza serwerowy garbage collector dla lepszej wydajności
+                "-gcHeapHardLimit",    // Twardy limit heapu w bajtach, np. 4GB
+                "4294967296"           // 4GB = 4 * 1024^3
+            ],
+            "env": {
+                "DOTNET_GCHeapHardLimit": "4294967296",  // Alternatywnie przez env (nowsze .NET)
+                "DOTNET_GCHardLimit": "4294967296"       // Starsze wersje
+            },
             "stopAtEntry": false
         },
         {
@@ -20,6 +29,15 @@
             "program": "${workspaceFolder}/bin/Content.Client/Content.Client.dll",
             "args": "--cvar display.compat=true",
             "console": "internalConsole",
+            "runtimeArgs": [
+                "-gcServer",           // Włącza serwerowy garbage collector dla lepszą wydajność
+                "-gcHeapHardLimit",    // Twardy limit heapu w bajtach, np. 4GB
+                "4294967296"           // 4GB = 4 * 1024^3
+            ],
+            "env": {
+                "DOTNET_GCHeapHardLimit": "4294967296",  // Alternatywnie przez env (nowsze .NET)
+                "DOTNET_GCHardLimit": "4294967296"       // Starsze wersje
+            },
             "stopAtEntry": false
         },
         {
@@ -29,6 +47,15 @@
             "program": "${workspaceFolder}/bin/Content.Server/Content.Server.dll",
             "args": [],
             "console": "integratedTerminal",
+            "runtimeArgs": [
+                "-gcServer",           // Włącza serwerowy garbage collector dla lepszą wydajność
+                "-gcHeapHardLimit",    // Twardy limit heapu w bajtach, np. 4GB
+                "4294967296"           // 4GB = 4 * 1024^3
+            ],
+            "env": {
+                "DOTNET_GCHeapHardLimit": "4294967296",  // Alternatywnie przez env (nowsze .NET)
+                "DOTNET_GCHardLimit": "4294967296"       // Starsze wersje
+            },
             "stopAtEntry": false
         },
         {
@@ -39,6 +66,15 @@
             "program": "${workspaceFolder}/bin/Content.YAMLLinter/Content.YAMLLinter.dll",
             "cwd": "${workspaceFolder}/Content.YAMLLinter",
             "console": "internalConsole",
+            "runtimeArgs": [
+                "-gcServer",           // Włącza serwerowy garbage collector dla lepszą wydajność
+                "-gcHeapHardLimit",    // Twardy limit heapu w bajtach, np. 4GB
+                "4294967296"           // 4GB = 4 * 1024^3
+            ],
+            "env": {
+                "DOTNET_GCHeapHardLimit": "4294967296",  // Alternatywnie przez env (nowsze .NET)
+                "DOTNET_GCHardLimit": "4294967296"       // Starsze wersje
+            },
             "stopAtEntry": false
         }
     ],
