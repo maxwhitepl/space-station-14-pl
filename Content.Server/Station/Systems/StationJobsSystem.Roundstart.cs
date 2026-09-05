@@ -85,10 +85,11 @@ public sealed partial class StationJobsSystem
         IReadOnlyList<EntityUid> stations,
         bool useRoundStartJobs = true)
     {
-        DebugTools.Assert(stations.Count > 0);
-
         if (profiles.Count == 0)
             return new();
+
+        if (stations.Count == 0)
+            return profiles.Keys.ToDictionary(player => player, _ => ((ProtoId<JobPrototype>?) null, EntityUid.Invalid));
 
         // We need to modify this collection later, so make a copy of it.
         profiles = profiles.ShallowClone();

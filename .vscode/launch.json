@@ -4,10 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "Client",
             "type": "coreclr",
             "request": "launch",
+            "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Content.Client/Content.Client.dll",
             "args": [],
             "console": "internalConsole",
@@ -17,6 +19,7 @@
             "name": "Client (Compatibility renderer)",
             "type": "coreclr",
             "request": "launch",
+            "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Content.Client/Content.Client.dll",
             "args": "--cvar display.compat=true",
             "console": "internalConsole",
@@ -26,6 +29,7 @@
             "name": "Server",
             "type": "coreclr",
             "request": "launch",
+            "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Content.Server/Content.Server.dll",
             "args": [],
             "console": "integratedTerminal",
