@@ -2,12 +2,6 @@
   # Alarmy na stacji
   Alarmy na stacji są używane do ostrzegania załogi o niebezpieczeństwie i wzywania ich do określonych działań. Mogą być używane do ostrzegania przed zagrożeniami, takimi jak pożary, wycieki gazu lub ataki antagonistów, a także do wzywania załogi do określonych działań, takich jak ewakuacja lub zebranie się w określonym miejscu.
 
-  ## Typy alarmów
-  Istnieje kilka typów alarmów, które można uruchomić na stacji, w tym:
-  - Alarmy pożarowe: te alarmy ostrzegają załogę o pożarze na stacji i wzywają ich do ewakuacji lub podjęcia działań gaśniczych.
-  - Alarmy gazowe: te alarmy ostrzegają załogę o wycieku gazu na stacji i wzywają ich do ewakuacji lub podjęcia działań w celu usunięcia zagrożenia.
-  - Alarmy bezpieczeństwa: te alarmy ostrzegają załogę o zagrożeniach bezpieczeństwa, takich jak ataki antagonistów lub niebezpieczne sytuacje, i wzywają ich do podjęcia działań w celu ochrony siebie i innych.
-
   ## Uruchamianie alarmów
     Alarmy można uruchamiać z różnych miejsc na stacji, w tym z konsoli bezpieczeństwa, paneli alarmowych i przycisków alarmowych rozmieszczonych w całej stacji. Aby uruchomić alarm, należy wybrać odpowiedni typ alarmu i nacisnąć przycisk uruchamiania.
 
