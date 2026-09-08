@@ -1,16 +1,16 @@
 <Document>
-  # Vulpkanin
+  # Wulkaniczny
 
   <Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
   </Box>
 
-  Vulpkanin, due to their dense fur, [color=#1e90ff]prefer colder temperatures[/color] and [color=#ffa500]heat up faster.[/color]
-  Their agile (but clumsy) legs allow them to leap short distances, be careful not to bump into anything!
+  Vulpkaniny, ze względu na gęste futro, [color=#1e90ff]preferują niższe temperatury[/color] i [color=#ffa500]szybciej się nagrzewają.[/color]
+  Ich zwinne (ale niezdarne) nogi pozwalają im skakać na krótkie odległości – uważaj, żeby o nic nie wpaść!
 
-  Their diet allows them to safely eat raw meat but they get poisoned by theobromine.
+  Ich dieta pozwala im bezpiecznie jeść surowe mięso, ale są zatruwani theobrominą.
 
-  Their weirdly shaped muzzle leads to difficulties drinking, making them sometimes spill small amounts of whatever they drank onto the ground.
+  Ich dziwnie kształtowany nos prowadzi do trudności w piciu, co powoduje, że czasami rozlewają małe ilości napoju, który wypiły, na ziemię.
 
-  They take [color=#1e90ff]15% less Cold damage[/color] but [color=#ffa500]15% more Heat damage.[/color].
+  Otrzymują [color=#1e90ff]15% mniej obrażeń zimna[/color] ale [color=#ffa500]15% więcej obrażeń ciepła.[/color].
 </Document>

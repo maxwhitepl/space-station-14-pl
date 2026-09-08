@@ -24,4 +24,11 @@ Entries:
   id: 3
   time: '2026-01-06T04:38:55.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/42264
+- author: MaxWhitepl
+  changes:
+  - message: PhenixHosting now is Owner of the server, and the rules have been updated to reflect that.
+    type: Add
+  id: 3
+  time: '2026-09-06T04:38:55.0000000+00:00'
+  url: https://github.com/maxwhitepl/space-station-14-pl
 Order: 1

@@ -7,6 +7,7 @@
   - Defusal
   - CriminalRecords
   - SpaceLaw
+  - Alarms
 
 - type: guideEntry
   id: Forensics
@@ -17,6 +18,11 @@
   id: Defusal
   name: guide-entry-defusal
   text: "/ServerInfo/Guidebook/Security/Defusal.xml"
+
+- type: guideEntry
+  id: Alarms
+  name: Alarmy
+  text: "/ServerInfo/Guidebook/Security/Alarms.xml"
 
 - type: guideEntry
   id: CriminalRecords

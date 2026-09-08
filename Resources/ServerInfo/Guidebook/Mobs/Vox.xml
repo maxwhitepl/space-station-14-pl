@@ -5,24 +5,24 @@
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
   </Box>
 
-  [color=#ffa500]Warning! This species is not recommended for new players due to their fatal allergy to oxygen![/color]
+  [color=#ffa500]Uwaga! Ten gatunek nie jest zalecany dla początkujących graczy ze względu na śmiertelną alergię na tlen![/color]
 
-  Vox breathe nitrogen, and [color=#ffa500] oxygen is toxic to them.[/color]
-  Unfortunately, space stations tend to be full of oxygen,
-  so Vox must use an internal nitrogen supply at almost all times to avoid fatal exposure.
+  Vox oddychają azotem, a [color=#ffa500]tlen jest dla nich toksyczny.[/color]
+  Niestety, stacje kosmiczne są pełne tlenu,
+  więc Vox muszą używać wewnętrznego zapasu azotu prawie zawsze, aby uniknąć śmiertelnego narażenia.
 
-  Vox always spawn wearing working nitrogen internals equipment.
-  A spare breathing mask and an emergency nitrogen canister is provided in their survival box.
+  Vox zawsze spawnują z noszonymi działającymi urządzeniami wewnętrznych azotu.
+  Zamiast maski oddechowej i awaryjnego zbiornika azotu jest dostarczony w ich pudełku na przeżycie.
 
-  In addition to regular foods, Vox can also eat various snack packaging, banana peels, eggshells, and raw meat without any ill effects. They also like to drink welding fuel.
+  Oprócz zwykłych jedzenia, Vox mogą też jeść różne opakowania przekąsek, skórki bananów, kości jaj i surowe mięso bez żadnych negatywnych skutków. Lubią też pić paliwo do spawania.
 
-  Vox [color=#1e90ff]slowly recover from low levels of poison damage[/color] on their own,
-  so long as they are careful not to exceed 20 poison damage.
-  This allows them to endure breathing station air for up to thirty seconds at a time without lasting damage,
-  letting them quickly eat, drink, take oral medication, and so on.
-  A thirty second oxygen exposure takes them two minutes to recover from.
-  If their health does not seem to improve within a minute of oxygen exposure, they should seek medical attention.
+  Vox [color=#1e90ff]wolno regenerują się z niskich poziomów uszkodzeń trucizny[/color] na własną rękę,
+  o ile są ostrożni i nie przekraczają 20 punktów uszkodzeń trucizny.
+  Pozwala im to wytrzymać oddychanie powietrzem stacji przez maksymalnie trzydzieści sekund bez trwałych skutków,
+  umożliwiając im szybkie jedzenie, picie, pobieranie leków i inne.
+  Trzydzieści sekund ekspozycji tlenu zajmuje im dwa minuty do odzyskania.
+  Jeśli ich stan zdrowia nie wydaje się poprawiać w ciągu minuty ekspozycji tlenu, powinni szukać pomocy medycznej.
 
-  Vox deal Slash damage with their unarmed attack.
+  Vox zadają obrażenia tnące swoim nieuzbrojonym atakiem.
 
 </Document>

@@ -3,36 +3,36 @@
 It is generally wise to avoid situations that will cause you harm, because medical can only heal you so much with limited chemicals and medical items and especially when there's nuclear operatives on your doorstep.
 
 ## Identifying your situation
-Your PDA contains both a vessel name and list of crew currently active in your vessel, a reminder for your name if needed, and your assigned job for the shift, allowing you to quickly assess the situation.
+Twój PDA zawiera zarówno nazwę statku, jak i listę członków załogi obecnie pełniących służbę na statku, przypomnienie o Twoim imieniu (w razie potrzeby) oraz przydzielone Ci zadanie na daną zmianę, co pozwala Ci szybko ocenić sytuację.
 
-## Emergency Treatment
-In the event of a serious emergency, there are a few things you can do to help ensure your long-term survival, including:
-- If entering critical condition, use the emergency medipen from your emergency box, it'll make sure you don't end up unable to do anything. Emergency medipens can also be used to revive people currently in crit on the floor, and to prolong the amount of time you have to deal with poisons/etc.
+## Leczenie w nagłych przypadkach
+W razie poważnej sytuacji kryzysowej możesz podjąć kilka działań, które pomogą Ci zapewnić sobie długoterminowe przetrwanie, m.in.:
+- Jeśli znajdziesz się w stanie krytycznym, użyj awaryjnego medipenu z apteczki ratunkowej – dzięki temu nie stracisz zdolności do działania. Awaryjne medipeny można również wykorzystać do reanimacji osób leżących na podłodze w stanie krytycznym oraz do przedłużenia czasu, jaki masz na radzenie sobie z zatruciami itp.
 
 <Box>
   <GuideEntityEmbed Entity="EmergencyMedipen"/>
 </Box>
 
-- Your emergency box contains a breath mask and oxygen tank, which can help you survive longer in a spacing situation. If you're one of the slimepeople, be aware that nitrogen replaces oxygen for you and that your emergency box will start with a red tank of nitrogen replacing the standard blue/yellow oxygen tank.
+- Twoja skrzynka ratunkowa zawiera maskę oddechową i butlę z tlenem, które pomogą ci dłużej przetrwać w sytuacji, gdy znajdziesz się w przestrzeni kosmicznej. Jeśli należysz do rasy śluzowców, pamiętaj, że w twoim przypadku tlen zastępuje azot, a w twojej skrzynce ratunkowej zamiast standardowej niebiesko-żółtej butli z tlenem znajdziesz czerwoną butlę z azotem.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingMaskBreath"/>
   <GuideEntityEmbed Entity="EmergencyOxygenTankFilled"/>
 </Box>
 
-- If actively bleeding out, or simply wishing to prepare, it's possible to slice up cloth items with a knife or other sharp object and use the resulting cloth to create gauze in the crafting menu to stem bleeding with, however cloth alone can be used to less of a degree in emergencies.
+- W przypadku aktywnego krwawienia lub po prostu w ramach przygotowań można pociąć przedmioty z tkaniny nożem lub innym ostrym przedmiotem, a następnie wykorzystać powstałą tkaninę do stworzenia gazy w menu rzemiosła, aby zatamować krwawienie; jednak w sytuacjach awaryjnych sama tkanina może okazać się mniej skuteczna.
 
 <Box>
   <GuideEntityEmbed Entity="Gauze"/>
   <GuideEntityEmbed Entity="MaterialCloth"/>
 </Box>
 
-## Other Various Tips
-- In lieu of an actual health analyzer, simply examining yourself and using the detailed examine is a good way to figure out what wounds you have.
-- If going blind, carrots are another way to treat the issue (as they contain Oculine, the chemistry drug used to treat blindness) should they be available.
-- Well-made meals (cooked food not from a vending machine) is generally much better for your overall health and can help heal smaller wounds more quickly.
-- Simple bed rest can allow some wounds to close up on their own. Medical beds are best for this, providing a sterile surface and support for all damaged body parts, but any bed works.
-- Actually sleeping on a bed boosts your healing rate even farther.
-- Meals that contain proteins, such as meat, will tremendously help your body's condition after severe bloodloss. It's still advised to visit a doctor and get treated though.
+## Inne różne wskazówki
+- Zamiast korzystać z prawdziwego analizatora stanu zdrowia, wystarczy po prostu zbadać się samodzielnie i skorzystać ze szczegółowego testu, aby ustalić, jakie masz obrażenia.
+- W przypadku utraty wzroku marchewki stanowią alternatywny sposób leczenia tego problemu (ponieważ zawierają Oculine, substancję chemiczną stosowaną w leczeniu ślepoty), o ile są dostępne.
+- Dobrze przygotowane posiłki (gotowane, a nie z automatu) są generalnie znacznie lepsze dla ogólnego stanu zdrowia i mogą pomóc w szybszym gojeniu się drobnych ran.
+- Zwykły odpoczynek w łóżku może sprawić, że niektóre rany zamkną się same. Najlepsze do tego są łóżka medyczne, zapewniające sterylną powierzchnię i podparcie dla wszystkich uszkodzonych części ciała, ale każde łóżko się nada.
+- Sam sen w łóżku jeszcze bardziej przyspiesza proces gojenia.
+- Posiłki zawierające białka, takie jak mięso, znacznie poprawią kondycję organizmu po poważnej utracie krwi. Nadal jednak zaleca się wizytę u lekarza i poddanie się leczeniu.
 
 </Document>

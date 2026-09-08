@@ -1,87 +1,87 @@
 <Document>
-  # Changelings
+  # Podmieńcy
 
   <Box>
-    [color=#999999][italic]"Uh...THE HEAD OF SECURITY IS A CHANGE-" *BZZZZZRT* *CRUNCH* "Never mind, everything's OK. Go back to work."[/italic][/color]
+    [color=#999999][italic]"Eee... SZEF OCHRONY ZOSTAŁ WYMIENIONY –" *BZZZZZRT* *CRUNCH* "Nieważne, wszystko w porządku. Wracaj do pracy."[/italic][/color]
   </Box>
 
   <Box>
-    <GuideEntityEmbed Entity="MobHeadSlug" Caption="Who are you?"/>
+    <GuideEntityEmbed Entity="MobHeadSlug" Caption="Kim ty jesteś?"/>
   </Box>
 
-  A Changeling is an alien creature who assumed the appearance of a regular crewmember. They are a master of disguise, allowing them to assume the identity of any unfortunate victim who has come across one in a secluded area. While their weaknesses imitate those of the identity they took over, they possess the ability to produce [bold]deadly toxins[/bold] within their glands, as well as [bold]shape their body and flesh[/bold] for defensive and offensive purposes.
+  Podmieńcy to obca istota, która przybrała wygląd zwykłego członka załogi. Są mistrzami kamuflażu, co pozwala im przyjąć tożsamość każdej nieszczęsnej ofiary, która natknęła się na nie w ustronnym miejscu. Chociaż ich słabości naśladują słabości osoby, której tożsamość przejęły, posiadają zdolność wytwarzania [bold]śmiertelnych toksyn[/bold] w swoich gruczołach, a także [bold]zmieniania kształtu ciała i tkanki[/bold] w celach obronnych i ofensywnych.
 
-  Changelings are solitary by nature, being generally hostile towards one another and competing over their hunting grounds in attempts to secure as much sustenance as possible. They thrive in the darkness of maintenace; always be careful when meeting another crewmember while walking alone in the dark depths of the station.
+  Podmieńcy są z natury samotnikami, zazwyczaj wykazują wrogość wobec siebie nawzajem i rywalizują o tereny łowieckie, próbując zapewnić sobie jak najwięcej pożywienia. Doskonale czują się w mroku stacji; zawsze zachowuj ostrożność, gdy spotkasz innego członka załogi, spacerując samotnie w ciemnych głębinach stacji.
 
-  ## The Hunger Never Stops
+  ## Głód nigdy nie ustaje
 
-  So you are a Changeling that has crawled its way onto the station. What now? As a shapeshifting lifeform, there are a few basic concepts you must understand before you start seeking dinner.
+  A więc jesteś zmiennokształtnym, który przedostał się na stację. Co teraz? Jako istota zdolna do zmiany kształtu musisz zrozumieć kilka podstawowych zasad, zanim zaczniesz szukać kolacji.
 
-  ### Assuming Identities
+  ### Przyjmowanie tożsamości
 
-  Your primary goal as a Changeling is to remain hidden and snack on those delicious so-called "coworkers". Thankfully, both of those things should be second nature to you... right?
+  Twoim głównym celem jako Podmieńca jest pozostanie ukrytym i zjadanie tych pysznych tzw. "współpracowników". Na szczęście, obie te rzeczy powinny być dla Ciebie drugą naturą... prawda?
 
-  Identities can be obtained in two ways:
+  Tożsamości można uzyskać na dwa sposoby:
 
-  - [bold]DNA Extraction Sting[/bold], which is completely silent and instantly grants you the identity of the victim.
-  - [bold]Devouring[/bold] the victim, which is loud, messy, but [bold]grants you DNA[/bold] for further evolution.
+  - [bold]Ekstrakcja DNA[/bold], która jest całkowicie cichą i natychmiast udziela tożsamości ofiary.
+  - [bold]Pożeranie[/bold] ofiary, które jest głośne i nieporządne, ale [bold]udziela DNA[/bold] do dalszego rozwijania.
 
-  Keep in mind! A changeling can only have [bold]5 identities[/bold] stored at a time! You cannot devour or extract while at this limit and must purge one of the identities via your transformation menu. Dead victims must also be unarmored before they can be devoured.
+  Pamiętaj! Podmieńca może mieć tylko [bold]5 tożsamości[/bold] przechowywanych jednocześnie! Nie możesz pożerać ani ekstrahować, gdy osiągniesz ten limit, i musisz wyczyścić jedną z tożsamości za pomocą menu transformacji. Martwe ofiary muszą również być bezbronione, zanim będą mogły być pożerane.
 
-  ### Evolution
+  ### Ewolucja
 
   <Box>
-    <GuideEntityEmbed Entity="ActionRetractableItemArmblade" Caption="Armblade"/>
-    <GuideEntityEmbed Entity="ActionChangelingStingDna" Caption="Extract DNA"/>
-    <GuideEntityEmbed Entity="ActionChangelingNightVision" Caption="Night Vision"/>
+    <GuideEntityEmbed Entity="ActionRetractableItemArmblade" Caption="Ostrze na ramieniu"/>
+    <GuideEntityEmbed Entity="ActionChangelingStingDna" Caption="Ekstrakcja DNA"/>
+    <GuideEntityEmbed Entity="ActionChangelingNightVision" Caption="Widzenie w ciemności"/>
   </Box>
 
-  Being a scary monster who changes identities is neat; however, it is not enough to survive the dangers of space. Thankfully, all those pesky security officers you snacked on will be useful for something. Every time you devour a new crewmember, you obtain [bold]10 DNA[/bold] to spend in the [bold]Evolution Store[/bold]. Here you can buy things like additional abilities to become even more of a threat.
+  Bycie przerażającym potworem, który zmienia tożsamość, jest fajne, ale to za mało, by przetrwać niebezpieczeństwa kosmosu. Na szczęście wszyscy ci irytujący funkcjonariusze ochrony, których zjadłeś, przydadzą się do czegoś. Za każdym razem, gdy pożerasz nowego członka załogi, zdobywasz [bold]10 DNA[/bold], które możesz wydać w [bold]Sklepie Ewolucji[/bold]. Możesz tam kupić na przykład dodatkowe umiejętności, dzięki którym staniesz się jeszcze większym zagrożeniem.
 
-  - [bold]Utility[/bold] abilities are useful for deception. They can also give you short-term or lasting benefits, often making the behaviour of your prey more predictable.
-  - [bold]Stealth[/bold] abilities can help keep your true identity hidden and lower crew suspicion.
-  - [bold]Combat[/bold] abilities let you pack quite a punch when trying to set up an ambush for single targets, but are not sustainable for prolonged use or open combat.
+  - [bold]Narzędzie[/bold] Umiejętności te przydają się do wprowadzania w błąd. Mogą one również przynosić korzyści krótkotrwałe lub długotrwałe, często sprawiając, że zachowanie ofiary staje się bardziej przewidywalne.
+  - [bold]Ukrycie[/bold] Te umiejętności mogą pomóc w ukryciu twojej prawdziwej tożsamości i zmniejszeniu podejrzeń załogi.
+  - [bold]Walka[/bold] Umiejętności te pozwalają zadawać potężne ciosy podczas przygotowywania zasadzki na pojedyncze cele, ale nie nadają się do długotrwałego stosowania ani do walki w otwartej przestrzeni.
 
-  Some of the more interesting picks might include:
-  - [bold]The Armblade[/bold], allowing you to slice up the crew with style.
-  - [bold]Chemical Stings[/bold], to disorient the victim before attacking.
+  Niektóre z bardziej interesujących opcji to:
+  - [bold]Ostrze na ramieniu[/bold], co pozwoli ci z klasą rozprawić się z załogą.
+  - [bold]Użądlenia chemiczne[/bold], aby zdezorientować ofiarę przed atakiem.
 
   ### Resilience
 
   <Box>
-    <GuideEntityEmbed Entity="ActionChangelingStasis" Caption="Regenerative Stasis"/>
+    <GuideEntityEmbed Entity="ActionChangelingStasis" Caption="Staza regeneracyjna"/>
   </Box>
 
-  Changelings are known for their durability. They [bold]cannot be disposed of by any means short of cremation or ashing[/bold].
-  This by itself wouldn't be so bad; however, issues arise when they enter [bold]Regenerative Stasis[/bold].
+  Podmieńcy słyną ze swojej wytrzymałości. Nie [bold]można się ich pozbyć w żaden sposób poza kremacją lub spopieleniem[/bold].
+  Samo w sobie nie byłoby to takie złe; jednak problemy pojawiają się, gdy wchodzą w stan [bold]stazy regeneracyjnej[/bold].
 
-  In this state, they appear completely dead to the outside world, while in reality preparing to jolt back awake with all their injuries gone. Thankfully, the stasis lasts a considerable duration, which further scales based on the amount of damage sustained. Make sure to act quickly when you are in possession of a corpse, or it may get up and stab you in the back.
+  W tym stanie wydają się całkowicie martwe dla zewnetrznego świata, podczas gdy w rzeczywistości przygotowują się do obudzenia się z całą swoją raną. Szczęśliwie, staza trwa znaczącą ilość czasu, co dalej skala na podstawie ilości poniesionego obrażenia. Upewnij się, że działasz szybko, gdy posiadasz zwłokę, albo może wstać i uderzyć cię w plecy.
 
-  ## Being Seen
+  ## Być dostrzeganym
 
-  The station is one large buffet for you, but at the same time it means sometimes you'll have the dessert walk in on you while you're snacking on your appetizer. If crew knows there is a changeling onboard you will be facing an uphill battle, and even though you may at times look like a crewmember Space Law does not apply to you. Luckily, you have evolved to deal with this.
-  If you've devoured anyone, you can transform and assume their identity at any time. This can make it harder for crew members to pinpoint who you are. It can be helpful to carry around a stolen ID card or two from your victims, in case you need to switch identities on the go.
-  If you have access to the Arm Blade ability, you can use it to pry open airlocks regardless of whether they are powered or bolted. This should let you slip into maintenance away from the A.I.'s prying eyes, but if you are creative enough, this could also open other opportunities.
+  Stacja to dla ciebie jeden wielki bufet, ale jednocześnie oznacza to, że czasami deser zaskoczy cię, gdy właśnie zajadasz się przystawką. Jeśli załoga wie, że na pokładzie znajduje się zmiennokształtny, czeka cię ciężka walka, a mimo że czasami możesz wyglądać jak członek załogi, Prawo Kosmiczne cię nie dotyczy. Na szczęście ewoluowałeś, by sobie z tym radzić.
+  Jeśli kogoś pożarłeś, możesz w dowolnym momencie przemienić się i przyjąć jego tożsamość. To może utrudnić członkom załogi ustalenie, kim jesteś. Pomocne może być noszenie przy sobie jednej lub dwóch skradzionych kart identyfikacyjnych ofiar, na wypadek gdybyś musiał zmienić tożsamość w biegu.
+  Jeśli masz dostęp do umiejętności „Arm Blade”, możesz jej użyć do wyważenia śluz powietrznych, niezależnie od tego, czy są zasilane, czy zamknięte na rygle. Powinno to pozwolić ci wkraść się do pomieszczeń konserwacyjnych z dala od wścibskich oczu sztucznej inteligencji, ale jeśli jesteś wystarczająco kreatywny, może to również otworzyć przed tobą inne możliwości.
 
-  ### Fighting it Out
+  ### Walka na śmierć i życie
 
-  You are only durable [italic]to an extent[/italic], so do not fool yourself into thinking no one can take you down. A changeling's strength lies in its ability to isolate and ambush unaware targets, so try to get an upper hand through tactics and trickery rather than relying on brute strength.
-  It’s not recommended to rely entirely on your abilities for fighting. Consider other weaponry or forms of protection to help you in fending off attackers.
-  If you must use your abilities, try combining them with each other. Armblades and Chemical Stings can give you a combat advantage if used in time, but remember, they are not great for fighting more than one attacker.
+  Jesteś wytrzymały [kursywa]tylko do pewnego stopnia[/kursywa], więc nie łudź się, że nikt nie jest w stanie cię pokonać. Siła changelinga polega na jego zdolności do izolowania i zasadzania się na nieświadome zagrożenia ofiary, więc staraj się zdobyć przewagę dzięki taktyce i podstępom, zamiast polegać na sile fizycznej.
+  Nie zaleca się polegania wyłącznie na swoich zdolnościach bojowych. Rozważ użycie innych rodzajów broni lub środków ochrony, które pomogą ci odeprzeć napastników.
+  Jeśli musisz użyć swoich zdolności, spróbuj je ze sobą połączyć. Ostrza na ramionach i Użądlenia chemiczne mogą zapewnić ci przewagę w walce, jeśli zostaną użyte w odpowiednim momencie, ale pamiętaj, że nie sprawdzają się zbyt dobrze w starciu z więcej niż jednym napastnikiem.
 
-  ## Identifying Changelings
+  ## Rozpoznawanie podmieńców
 
   <Box>
-    <GuideEntityEmbed Entity="SyringeHivarol" Caption="Hivarol Syringe"/>
+    <GuideEntityEmbed Entity="SyringeHivarol" Caption="Strzykawka Hivarol"/>
   </Box>
 
-  Changelings may be almost indistinguishable from regular crew when undercover, but if they think they are alone you may be able to catch them revealing their true form. If you see a Changeling transform their appearance, devour someone, or have their clothing fall apart into fleshy remains, that quickly gives away who they truly are. The cracking joints and ripping flesh of a Changeling transforming is also loud and distinct. But be careful, [bold]they have certain tools to frame regular crewmembers[/bold]! Thankfully, the crew has tools of their own.
+  Podmieniec mogą być niemal nie do odróżnienia od zwykłej załogi, gdy działają pod przykrywką, ale jeśli sądzą, że są sami, być może uda ci się przyłapać je na ujawnieniu prawdziwej postaci. Jeśli zobaczysz, jak Changeling zmienia swój wygląd, pożera kogoś lub jak jego ubranie rozpada się na mięsiste resztki, to szybko zdradza, kim naprawdę jest. Trzeszczące stawy i rozrywające się ciało zmieniającego się zmiennokształtnego są również głośne i charakterystyczne. Ale bądź ostrożny, [bold]dysponują oni pewnymi narzędziami, by wrobić zwykłych członków załogi[/bold]! Na szczęście załoga ma swoje własne narzędzia.
 
-  Changelings are vicious creatures, so vicious in fact they leave a huge mess when eating. [bold]As part of devouring, Changelings leave small amounts of their tissue behind.[/bold] These remains cannot be used for anything by themselves, but with help from your [textlink="Chemistry" link="Chemist"] department, you can synthesize a chemical that irritates Changelings, causing them to shake and yell out upon injection.
+  Podmieniec to okrutne stworzenia, tak okrutne, że podczas jedzenia pozostawiają po sobie ogromny bałagan. [bold]W trakcie pożerania changelingi pozostawiają niewielkie ilości swojej tkanki.[/bold] Same w sobie pozostałości te nie mają żadnego zastosowania, ale z pomocą waszego [textlink=„Chemia” link="Chemik"] wydziału można zsyntetyzować substancję chemiczną, która działa drażniąco na changelingi, powodując, że po wstrzyknięciu zaczynają się trząść i krzyczeć.
 
-  Alternatively, if you don't care about having your boss eaten by a scary flesh monster, the tissue can be repurposed into chemicals that can [bold]reverse rotting[/bold], probably on the corpse you just found!
+  Z drugiej strony, jeśli nie przeszkadza ci, że twój szef zostanie pożarty przez przerażającego potwora z mięsa, tkankę tę można przetworzyć na substancje chemiczne, które mogą [bold]powstrzymać proces rozkładu[/bold] – prawdopodobnie na zwłokach, które właśnie znalazłeś!
 
-  Note! The availability of the tissue is [bold]greatly limited[/bold]. Use what you manage to gather wisely!
+  Uwaga! Dostępność tej tkanki jest [bold]bardzo ograniczona[/bold]. Mądrze wykorzystuj to, co uda ci się zebrać!
 
   <GuideReagentEmbed Reagent="LivingTissue"/>
   <GuideReagentEmbed Reagent="Hivarol"/>

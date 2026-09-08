@@ -1,37 +1,37 @@
 ﻿<Document>
-# Chemicals
+# Środki chemiczne
 
-Chemicals are a powerful tool that can cause a variety of effects when consumed. Some can be found in plants, purchased from cargo, or be synthesized through combination with other chemicals.
+Środki chemiczne to potężny narzędzie, które mogą powodować różnorakie efekty przy konsumpcji. Niektóre można znaleźć w roślinach, kupić z ładunku lub wytworzyć poprzez połączenie z innymi substancjami chemicznymi.
 
-Knowing different types of chemicals and their effects is important for being able to manage injury and danger.
+Znajomość różnych typów chemicznych i ich skutków jest ważna dla zdolności do zarządzania ranami i niebezpieczeństwem.
 
-## Elements
+## Elementy
 <GuideReagentGroupEmbed Group="Elements"/>
 
-## Medicine
+## Leki
 <GuideReagentGroupEmbed Group="Medicine"/>
 
-## Narcotics
+## Narkotyki
 <GuideReagentGroupEmbed Group="Narcotics"/>
 
-## Pyrotechnics
+## Pirotechnika
 <GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-## Toxins
+## Toksyny
 <GuideReagentGroupEmbed Group="Toxins"/>
 
-## Foods
+## Żywność
 <GuideReagentGroupEmbed Group="Foods"/>
 
-## Botanical
+## Botaniczny
 <GuideReagentGroupEmbed Group="Botanical"/>
 
-## Biological
+## Biologiczny
 <GuideReagentGroupEmbed Group="Biological"/>
 
-## Special
+## Specjalne
 <GuideReagentGroupEmbed Group="Special"/>
 
-## Other
+## Inne
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

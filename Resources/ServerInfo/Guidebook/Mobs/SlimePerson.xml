@@ -1,24 +1,24 @@
 <Document>
-  # Slime People
+  # Ludzie-śluz
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Ludzie-śluz oddychają azotem zamiast tlenem, który jest obecny w powietrzu stacji, ale trudniejszy do znalezienia w postaci skoncentrowanej w zbiornikach gazowych. Otrzymują znaczące obrażenia, jeśli są opryskiwani lub rozmywani wodą, ale mogą
+  (jak i inne gatunki, muszą) pić ją bezpiecznie, aby pozostać nawodnieni.
+  Wytwarzają óxyn azotowy i nie są narażeni na jego skutki.
+  Ich ciało może przetwarzać 6 substancji jednocześnie zamiast tylko 2.
 
-  Slimepeople have an [bold]internal 2x3 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
+  Ludzie-śluz posiadają [bold]wewnętrzny inwentarz magazynowy 2x3[/bold] wewnątrz swojej błony śluzowej. Każdy może zobaczyć, co się znajduje w środku i wyjąć to z nich bez pytania,
   so be careful.
 
-  Slimepeople have roughly [color=#1e90ff]double[/color] regeneration compared to other humanoids and can regenerate from far greater wounds up to [color=#1e90ff]triple[/color] compared to others.
+  Ludzie-śluz mają około [color=#1e90ff]podwójne[/color] regenerowanie w porównaniu do innych humanoidów i mogą regenerować się z znacznie większych ran do [color=#1e90ff]potrójnego[/color] w porównaniu do innych.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Ich śluz "krew" nie może być regenerowana z żelaza. Śluzowa krew jest technicznie źródłem
+  umiarkowanie wypełniającego jedzenia dla innych gatunków, choć picie krwi pracowników jest zazwyczaj potraktowane negatywnie.
+  Wymarzają 80% wolniej, ale otrzymują uszkodzenia ciśnienia 9% szybciej. To czyni ich najbardziej zdolnym gatunkiem do przetrwania w twardym próżniu. Na jakiś czas.
 
-  They take [color=#1e90ff]40% less Blunt damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Otrzymują [color=#1e90ff]40% mniej obrażeń przeciągania[/color], ale [color=#ffa500]50% więcej obrażeń zimna, 20% więcej obrażeń tnących i 20% więcej obrażeń przekłuć[/color].
 
 </Document>

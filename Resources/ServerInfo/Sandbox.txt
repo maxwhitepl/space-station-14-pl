@@ -1,5 +1,5 @@
 
-[color=#ffffff]Entity spawn panel options[/color]
+[color=#ffffff]Opcje panelu generowania obiektów[/color]
 [color=#a4885c]Default[/color] spawns small entities like mugs without aligning them to anything, while aligning block entities like walls to the grid.
 [color=#a4885c]PlaceFree[/color] spawns all entities without aligning them.
 [color=#a4885c]PlaceNearby[/color] limits the spawn radius to around 2 tiles.

@@ -1,11 +1,11 @@
 <Document>
-  # Dwarves
+  # Krasnoludy
 
   <Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  Dwarves are similar to humans in most respect, but tolerate alcohol better and are healed by it.
+  Krasnoludy są podobne do ludzi w większości aspektów, ale lepiej tolerują alkohol i są leczone przez niego.
 
 
 </Document>

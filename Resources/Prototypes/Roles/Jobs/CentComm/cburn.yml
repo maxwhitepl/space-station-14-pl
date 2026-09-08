@@ -1,9 +1,9 @@
 - type: job
   id: CBURN
-  name: job-name-cburn
-  description: job-description-cburn
+  name: CBRN Unit
+  description: CBRN is a specialized unit within the Central Command, responsible for handling chemical, biological, radiological, and nuclear threats. Members of this unit are trained to respond to hazardous situations, ensuring the safety of personnel and the integrity of the station.
   playTimeTracker: JobCBURN
-  setPreference: false
+  setPreference: true
   startingGear: CBURNGear
   icon: "JobIconCBURN"
   supervisors: job-supervisors-centcom

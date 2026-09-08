@@ -1,39 +1,39 @@
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Bezpieczeństwo
+Zapewnienie bezpieczeństwa zarówno stacji, jak i załogi jest priorytetem dla [color=#cb0000]Bezpieczeństwa[/color]. Są gotowi na każdą sytuację, a [color=#cb0000]Bezpieczeństwo[/color] jest na miejscu, aby utrzymać porządek i kontrolować tłumy.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Stają twarzą w twarz z [textlink="Agenci Syndykatu" link="Traitors"], [textlink="Operatywni Nuklearni" link="NuclearOperatives"], [textlink="Zombie" link="Zombies"] i nieregulaminowym personelem.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, and the Detective. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+## Personel
+Personel [color=#cb0000]Bezpieczeństwa[/color] składa się z Kadetów Bezpieczeństwa, Oficerów Bezpieczeństwa i Detektywa. [color=#cb0000]Bezpieczeństwo[/color] jest kierowane przez Wardyna i Głównego Dyrektora Bezpieczeństwa.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
-    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detektyw"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Naczelnik"/>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands. Cuffs will also shove the person down if your [color=red]harm mode[/color] is active during uncuff.
+## Wyposażenie
+Najpierw mamy środki nieśmiercionośne, które wykraczają poza zwykłe nakazanie komuś, by postępował zgodnie z poleceniami. Zarówno pałka ogłuszająca, jak i urządzenie unieruchamiające pozwalają ograniczyć ruchy napastnika, natomiast kajdanki można założyć, aby uniemożliwić przestępcy swobodne poruszanie się i dostęp do rąk. Kajdanki spowodują również przewrócenie osoby, jeśli podczas zdejmowania kajdanek aktywny jest tryb [color=red]szkody[/color].
   <Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
    <GuideEntityEmbed Entity="WeaponDisabler"/>
   </Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+## Błyski
+[color=#a4885c]Granat błyskowy[/color] stanowią skuteczne narzędzie do rozpraszania tłumów i zatrzymywania szczególnie trudnych do schwytania celów, a ich duży zasięg działania oślepia wszystkich, którzy nie mają odpowiedniej ochrony.
+Warto zauważyć, że granaty oślepiające można stosować zarówno na dużym obszarze (skrót klawiszowy [color=yellow]Z[/color]), jak i podczas ataku na przeciwnika, gdy aktywny jest [color=red]tryb obrażeń[/color]. Należy pamiętać, że granaty oślepiające o ograniczonym zasięgu działają [color=yellow]2,5[/color] razy dłużej niż te o szerokim zasięgu.
+[color=#cb0000]Bezpieczeństwo[/color] oraz [color=#a4885c]niektórzy[/color] inni członkowie personelu posiadają ochronę oczu przed granatami błyskowo-hukowymi i błyskami.
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
   </Box>
 
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substantial fire against any who would stand against the station.
+## Śmiertelne
+W razie konieczności [color=#cb0000]Służby bezpieczeństwa[/color] mają do dyspozycji karabiny laserowe, strzelby, pistolety oraz karabiny automatyczne, które pozwalają na prowadzenie intensywnego ostrzału przeciwko każdemu, kto odważyłby się stanąć na drodze stacji.
   <Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>

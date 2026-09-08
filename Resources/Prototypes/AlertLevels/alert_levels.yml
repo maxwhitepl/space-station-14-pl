@@ -59,8 +59,7 @@
   id: BaseDelta
   name: alert-level-delta
   instructions: alert-level-delta-instructions
-  selectable: false
-  disableSelection: true
+  selectable: true
   forceEnableEmergencyLights: true
   shuttleTime: 1200
 
@@ -80,12 +79,11 @@
   name: alert-level-epsilon
   announcement: alert-level-epsilon-announcement
   instructions: alert-level-epsilon-instructions
-  selectable: false
+  selectable: true
   sound:
     path: /Audio/Misc/epsilon.ogg
     params:
       volume: -2
-  disableSelection: true
   color: DarkViolet
   emergencyLightColor: DarkViolet
   forceEnableEmergencyLights: true
@@ -96,12 +94,11 @@
   name: alert-level-gamma
   announcement: alert-level-gamma-announcement
   instructions: alert-level-gamma-instructions
-  selectable: false
+  selectable: true
   sound:
     path: /Audio/Misc/gamma.ogg
     params:
       volume: -2
-  disableSelection: true
   color: PaleVioletRed
   emergencyLightColor: PaleVioletRed
   forceEnableEmergencyLights: true

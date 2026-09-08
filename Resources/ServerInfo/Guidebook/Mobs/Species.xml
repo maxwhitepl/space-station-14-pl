@@ -1,18 +1,18 @@
 <Document>
-  # Species
+  # Gatunek
 
-  Nanotrasen employs a variety of sapient species.
+  Nanotrasen zatrudnia przedstawicieli różnych gatunków rozumnych istot.
 
   <Box>
-  <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Arachnid"/>
+  <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Pajęczak"/>
   <GuideEntityEmbed Entity="AppearanceDiona" Caption="Diona"/>
-  <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Dwarf"/>
-  <GuideEntityEmbed Entity="AppearanceHuman" Caption="Human"/>
+  <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Karzeł"/>
+  <GuideEntityEmbed Entity="AppearanceHuman" Caption="Człowiek"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="AppearanceMoth" Caption="Moth Person"/>
-  <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Reptilian"/>
-  <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Slime Person"/>
+  <GuideEntityEmbed Entity="AppearanceMoth" Caption="Człowiek-ćma"/>
+  <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Reptilianin"/>
+  <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Osoba-śluz"/>
   <GuideEntityEmbed Entity="AppearanceVox" Caption="Vox"/>
   </Box>
   <Box>

@@ -1,0 +1,29 @@
+<Document>
+  # Alarmy na stacji
+  Alarmy na stacji są używane do ostrzegania załogi o niebezpieczeństwie i wzywania ich do określonych działań. Mogą być używane do ostrzegania przed zagrożeniami, takimi jak pożary, wycieki gazu lub ataki antagonistów, a także do wzywania załogi do określonych działań, takich jak ewakuacja lub zebranie się w określonym miejscu.
+
+  ## Typy alarmów
+  Istnieje kilka typów alarmów, które można uruchomić na stacji, w tym:
+  - Alarmy pożarowe: te alarmy ostrzegają załogę o pożarze na stacji i wzywają ich do ewakuacji lub podjęcia działań gaśniczych.
+  - Alarmy gazowe: te alarmy ostrzegają załogę o wycieku gazu na stacji i wzywają ich do ewakuacji lub podjęcia działań w celu usunięcia zagrożenia.
+  - Alarmy bezpieczeństwa: te alarmy ostrzegają załogę o zagrożeniach bezpieczeństwa, takich jak ataki antagonistów lub niebezpieczne sytuacje, i wzywają ich do podjęcia działań w celu ochrony siebie i innych.
+
+  ## Uruchamianie alarmów
+    Alarmy można uruchamiać z różnych miejsc na stacji, w tym z konsoli bezpieczeństwa, paneli alarmowych i przycisków alarmowych rozmieszczonych w całej stacji. Aby uruchomić alarm, należy wybrać odpowiedni typ alarmu i nacisnąć przycisk uruchamiania.
+
+  # Lista alarmów
+
+  -[color=#0dff00][Bold]Kod zielony[/Bold][/color] – Powrót do normalnej pracy
+  -[color=red][Bold]Kod czerwony[/Bold][/color] – Stacja znajduje się w bezpośrednim niebezpieczeństwie. Służby bezpieczeństwa powinny przygotować się do użycia siły śmiertelnej, jeśli zajdzie taka potrzeba. Członkowie załogi powinni znaleźć bezpieczne schronienie i postępować zgodnie z poleceniami obecnych władz.
+  -[color=blue][Bold]Kod niebieski[/Bold][/color] – Potwierdzono zagrożenie dla stacji. Służby ochrony powinny przeprowadzać wyrywkowe kontrole. Zaleca się członkom załogi zachowanie czujności i zgłaszanie podejrzanych działań służbom ochrony.
+  -[color=yellow][Bold]Kod żółty[/Bold][/color] – W stacji występuje zagrożenie konstrukcyjne lub związane z warunkami atmosferycznymi. Zaleca się, aby personel techniczny natychmiast zareagował i podjął środki bezpieczeństwa. Członkowie załogi powinni trzymać się z dala od źródła zagrożenia, a w razie potrzeby pozostać na swoich stanowiskach pracy.
+  -[color=purple][Bold]Kod Fioletowy[/Bold][/color] – Na stacji występuje zagrożenie wirusowe. Personel medyczny powinien izolować członków załogi wykazujących jakiekolwiek objawy. Członkowie załogi powinni zachować dystans od innych osób i stosować środki bezpieczeństwa, aby zapobiec dalszemu rozprzestrzenianiu się wirusa.
+  -[color=darkred][Bold]Kod Gamma[/Bold][/color] - Dowództwo Centralne zarządziło wprowadzenie na stacji poziomu bezpieczeństwa „Gamma”. Służby bezpieczeństwa mają obowiązek noszenia broni przez cały czas, a wszyscy cywile powinni niezwłocznie udać się do najbliższego punktu ewakuacyjnego w celu przetransportowania do bezpiecznego miejsca.
+  -[color=#ff0000][Bold]Kod Delta[/Bold][/color] - Stacja jest obecnie [Bold]zagrożona nieuchronnym zniszczeniem[/Bold]. Członkowie załogi powinni zwracać się do kierownictwa w celu uzyskania dalszych informacji.
+  -[Bold][color=black]Kod Epsilon[/color][/Bold] - [Bold][color=green]Dowództwo Centralne[/color][/Bold] zarządziło wprowadzenie na stacji poziomu bezpieczeństwa Epsilon. Wszystkie umowy uznaje się za rozwiązane przygotuj sie na śmierć.
+
+[bold][color=black]KOD EPSILON[/color][/bold] jest wprowadzany w sytuacjach, gdy stacja znajduje się w stanie krytycznym i nie ma możliwości jej uratowania. Wszyscy członkowie załogi powinni natychmiast udać się do najbliższego punktu ewakuacyjnego i przygotować się na ewakuację lub ratunek. Wszelkie próby oporu lub nieposłuszeństwa wobec władz mogą skutkować natychmiastowym użyciem siły śmiertelnej.
+
+Po 3 minutach na stacji pojawi sie [bold][color=black]Death Squad[/color][/bold], który będzie eliminował wszystkich członków załogi, którzy nie poddadzą się ewakuacji lub nie będą współpracować z władzami.
+
+</Document>

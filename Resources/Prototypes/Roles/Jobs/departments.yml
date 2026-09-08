@@ -35,7 +35,7 @@
   - ERTSecurity
   - ERTEngineer
   - DeathSquad
-  editorHidden: true
+  editorHidden: false
   weight: 120
 
 - type: department

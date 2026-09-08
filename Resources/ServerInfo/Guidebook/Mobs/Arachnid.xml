@@ -1,16 +1,16 @@
 <Document>
-  # Arachnids
+  # Pajęczaki
 
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption=""/>
   </Box>
 
-  They have two additional Pocket slots in their inventory. They can eat raw meat without any ill effects, but some foods like chocolate and onion poisons them.
-  They suffocate 50% faster, and their Blue Blood can't be metabolised from Iron, being based on Copper instead.
+  W swoim ekwipunku mają dwa dodatkowe miejsca na przedmioty typu „Pocket”. Mogą jeść surowe mięso bez żadnych negatywnych skutków, ale niektóre produkty spożywcze, takie jak czekolada i cebula, powodują u nich zatrucie.
+  Duszą się o 50% szybciej, a ich „Niebieska Krew” nie może być metabolizowana z żelaza, ponieważ opiera się na miedzi.
 
-  Their unarmed attacks deal Piercing damage instead of Blunt.
+  Ich ataki bez broni zadają obrażenia przebijające zamiast tępych.
 
-  ## Sericulture
+  ## Hodowla jedwabników
 
   <Box>
     <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
@@ -19,7 +19,7 @@
     <GuideEntityEmbed Entity="WallWeb" Caption=""/>
   </Box>
 
-  Arachnids can create Websilk at the cost of getting more hungry. They (and only they) can craft bundles of websilk into various items from clothing and shields to entire walls.
+  Pajęczaki mogą tworzyć pajęcinę kosztem zwiększenia głodu. Tylko oni (i tylko oni) mogą tworzyć z pajęczyny różne przedmioty od ubrań i tarcz do całych ścian.
 
 
 </Document>

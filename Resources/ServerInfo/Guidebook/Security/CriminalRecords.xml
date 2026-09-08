@@ -1,40 +1,40 @@
 ﻿<Document>
-  # Criminal Records
-  The criminal records console is accessible in every station's security department, it serves the purpose of tracking and managing the criminal history and status of anybody part of the crew manifest.
+  # Rejestry karalne
+  Konsola rejestru karalnego jest dostępna w każdym działie bezpieczeństwa stacji, służy do śledzenia i zarządzania historią kryminalną i statusem każdej osoby będącej częścią manifestu załogi.
 
   <Box>
   <GuideEntityEmbed Entity="ComputerCriminalRecords"/>
   </Box>
 
-  Anyone can open the console's UI, but only those with Security access can modify anything.
+  Każdy może otworzyć interfejs konsoli, ale tylko osoby z dostępem do bezpieczeństwa mogą modyfikować coś.
 
-  The UI is composed by the following elements:
-  - A search bar that has a filter next to it that lets you filter the crewmembers by their names, fingerprints or DNA.
+  Interfejs składa się z następujących elementów:
+  - Pasek wyszukiwania, który ma filtr obok siebie, który pozwala filtrować członków załogi po ich imionach, odciskach palców lub DNA.
 
-  - A list of all the crewmembers in the manifest, selecting one of the entries will make the criminal records of a crewmember appear. The list is filtered by the search bar so make sure it's empty if you want an overall overview!
+  - Lista wszystkich członków załogi w manifestzie, wybór jednego z wpisów spowoduje wyświetlenie rejestru karalnego danego członka załogi. Lista jest filtrowana przez pasek wyszukiwania, więc upewnij się, że jest pusty, jeśli chcesz uzyskać ogólny przegląd!
 
-  - The criminal records themselves
+  - Własne rejestry karalne
 
-  - The filter button below the crew list can be used to show only wanted, detained, or paroled crew.
-  In the record section you can:
-    - See security-related information about a crewmember like their name, fingerprints and DNA.
+  - Przycisk filtru poniżej listy członków załogi może być użyty do pokazania tylko poszukiwanych, aresztowanych lub uwolnionych członków.
+  W sekcji rekordów możesz:
+    - Zobaczyć informacje związane z bezpieczeństwem o członku załogi, takie jak ich imię, odciski palców i DNA.
 
-    - Change the security status between [color=gray]None[/color], [color=yellow]Wanted[/color] and [color=red]Detained[/color]. When setting it to Wanted you will be asked to write a reason.
+    - Zmienić status bezpieczeństwa między [color=gray]Brak[/color], [color=yellow]Poszukiwany[/color] i [color=red]Aresztowany[/color]. Po ustawieniu go na Poszukiwany zostaniesz poproszony o napisanie przyczyny.
 
-    - If they are wanted, you can see the reason given below the status dropdown.
+    - Jeśli są poszukiwani, możesz zobaczyć podaną przyczynę poniżej rozwijanego menu statusu.
 
-    - Once someone has been arrested, update their status on the console so everyone knows they no longer need to be captured.
+    - Gdy dana osoba zostanie aresztowana, zaktualizuj jej status na konsoli, aby wszyscy wiedzieli, że nie trzeba jej już zatrzymywać.
 
-    - After they've done their time, release them and update their status to None so nobody thinks they are an escaped convict.
+    - Po odbyciu kary należy ich zwolnić i zmienić ich status na „Brak”, aby nikt nie pomyślał, że są zbiegłymi skazańcami.
 
-    - Open the Crime History window to check or modify it.
+    - Otwórz okno Historii Przestępstw, aby ją sprawdzić lub zmodyfikować.
 
-  The Crime History window lists someone's crimes and can be modified in multiple ways:
-    - Automatically, just by setting someone's status to arrested. The reason will be added to "ARRESTED:" so it's easy to see the automated entries.
+  Okno Historii Przestępstw wyświetla przestępstwa danej osoby i może być modyfikowane na kilka sposobów:
+    - Automatycznie, wystarczy ustawienie statusu osoby na aresztowaną. Przyczyna zostanie dodana do "ARRESTED:" więc łatwo jest zobaczyć automatyczne wpisy.
 
-    - Adding a new line by clicking "Add" and writing something in the input box. When adding a record, remember to mention their crime and sentence, the console will automatically insert the shift's time so you don't need to!
+    - Dodawanie nowego wiersza poprzez kliknięcie "Add" i wpisanie czegoś w polu wejściowym. Podczas dodawania rekordu, pamiętaj o wymienieniu przestępstwa i kary, konsola automatycznie wstawi czas zmiany, więc nie musisz tego robić!
 
-    - Select a line of unwanted history and click "Delete" to remove it. Excellent for keeping records clean from the clown's stolen ID antics.
+    - Zaznacz niepotrzebny wpis w historii i kliknij „Usuń”, aby go usunąć. Doskonałe rozwiązanie do utrzymywania porządku w historii przeglądania po wybrykach klauna związanych z kradzieżą tożsamości.
 
-  Now you can be the desk jockey you've always wanted to be.
+  Teraz możesz zostać biurowym pracownikiem, o czym zawsze marzyłeś.
 </Document>

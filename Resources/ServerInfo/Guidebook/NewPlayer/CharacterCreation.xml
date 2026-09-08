@@ -1,70 +1,70 @@
 <Document>
-# Important Character Creation Tips
-This is a guide for the parts of character creation that effect gameplay.
+# Ważne wskazówki dotyczące tworzenia postaci
+Niniejszy przewodnik dotyczy tych elementów tworzenia postaci, które mają wpływ na rozgrywkę.
 
-[textlink="For a guide on making cosmetic changes, click here." link="YourFirstCharacter"]
+Aby zapoznać się z instrukcją wprowadzania zmian kosmetycznych [textlink="kliknij tutaj." link="YourFirstCharacter"]
 
-## Spawn Priority
-This affects where you spawn in upon joining the game after the round has already started.
+## Priorytet Spawnowania
+Ma to wpływ na miejsce, w którym pojawiasz się po dołączeniu do gry, gdy runda już się rozpoczęła.
 
-Choosing "Arrivals" will spawn you on a separate station where you wait for a shuttle to arrive to ship you to the main station.
+Wybranie opcji „Przyloty” spowoduje, że znajdziesz się na oddzielnej stacji, gdzie będziesz czekać na przybycie promu, który przewiezie cię na stację główną.
 
-Choosing "Cryosleep" will have you wake up in a cryosleep chamber already on the station.
+Jeśli wybierzesz opcję „Kriostan”, obudzisz się w komorze kriostanowej, która znajduje się już na stacji.
 
-Choosing "None" will either pick for you or choose the only spawn option available for the current station.
+Wybranie opcji „Brak” spowoduje, że system sam dokona wyboru lub wybierze jedyną opcję pojawiania się dostępną dla bieżącej stacji.
 
-This is a mostly arbitrary choice. You can safely leave this on "None" and you won't suffer any real inconveniences.
+To w dużej mierze kwestia osobistego wyboru. Możesz spokojnie pozostawić tę opcję ustawioną na „Brak” – nie spowoduje to żadnych rzeczywistych niedogodności.
 
-## Jobs
-You can set your job preferences in the lobby. While these don't [color=#a4885c]guarantee[/color] your position, someone who wants the job will be [color=#a4885c]randomly[/color] selected at the start of the round.
-You are given a chance at being chosen for your high priority job first, then your medium priorities, then your low priorities.
-You also given an option to automatically be a passenger or to be sent back to the lobby if you don't get chosen for any of your preferred jobs.
+## Prace
+W lobby możesz ustawić swoje preferencje dotyczące pracy. Chociaż nie mają one [color=#a4885c]gwarancje[/color] twojej pozycji, ktoś, kto chce daną pracę, zostanie [color=#a4885c]losowo[/color] wybrany na początku rundy.
+Masz szansę zostać wybrany na swoją pracę o wysokim priorytecie najpierw, a następnie na pracę o średnim i niskim priorytecie.
+Masz również możliwość automatycznego zostania pasażerem lub wrócenia do lobby, jeśli nie zostaniesz wybrany na żadną z preferowanych prac.
 
-Some jobs are locked until you've played long enough as other entry level jobs.
+Niektóre prace są zablokowane, dopóki nie grasz wystarczająco długo jako inne prace wejściowe.
 
-[textlink="For more infomation about jobs, click here." link="Jobs"]
+Aby uzyskać więcej informacji na temat ofert pracy [textlink="Kliknij tutaj." link="Jobs"]
 
-## Job Loadouts
-You may also choose [color=#a4885c]loadouts[/color] for each job. Loadouts are the clothing items and trinkets that you spawn with upon joining the game. Some loadout items are locked behind playtime restrictions.
-This may have various effects on gameplay, as some clothing items have [color=#a4885c]armor protection[/color] or [color=#a4885c]slow down your movement speed[/color]. This applies especially to Command and Security.
+## Wyposażenie Pracy
+Możesz również wybrać [color=#a4885c]loadouts[/color] dla każdego zadania. Wyposażenie to elementy ubioru i drobiazgi, z którymi gracz pojawia się na początku rozgrywki. Niektóre elementy wyposażenia są dostępne dopiero po osiągnięciu określonego czasu gry.
+Może to mieć różnorodny wpływ na rozgrywkę, ponieważ niektóre elementy garderoby mają [color=#a4885c]ochrona pancerna[/color] i [color=#a4885c]zmniejsz prędkość poruszania się[/color]. Dotyczy to w szczególności dowodzenia i bezpieczeństwa.
 
-You may also choose what bag you spawn in with.
-[color=#a4885c]Backpacks[/color] are medium sized but can carry large items easier. [color=#a4885c]Satchels[/color] have more total space than backpacks but have trouble carrying large items. [color=#a4885c]Duffel bags[/color] are large but incur a movement penalty.
+Możesz też wybrać, z jaką torbą chcesz się pojawić.
+[color=#a4885c]Plecak[/color] są średniej wielkości, ale z łatwością mieszczą duże przedmioty. [color=#a4885c]Torby szkolne[/color] mają więcej miejsca niż plecaki, ale trudno jest w nich przenosić duże przedmioty. [color=#a4885c]Torby podróżne[/color] są duże, ale wiążą się z karą do ruchu.
 
-## Antags
-Turning on an [color=#a4885c]antagonist[/color] toggle will put you on the list of potentional antags at the start of the round. They do not guarantee your antagonist role, don't use this as an excuse to self-antag!
-Instead, like job priorities, a handful of players are chosen randomly from eligible players. If you are a command member or security officer, you cannot be chosen for an antag role.
+## Antagoniści
+Włączając [color=#a4885c]antagonistów[/color] Włączenie tej opcji spowoduje, że na początku rundy znajdziesz się na liście potencjalnych antagonistów. Nie gwarantuje to jednak, że otrzymasz rolę antagonisty, więc nie traktuj tego jako pretekstu do samodzielnego wyznaczania się na antagonistę!
+Zamiast tego, podobnie jak w przypadku priorytetów zadań, spośród kwalifikujących się graczy losowo wybiera się kilku. Jeśli jesteś członkiem dowództwa lub funkcjonariuszem ochrony, nie możesz zostać wybrany do roli antagonisty.
 
-[textlink="For more information about antagonists, click here." link="Antagonists"]
+Więcej informacji na temat antagonistów [textlink="Kliknij tutaj." link="Antagonists"]
 
-Joining multiple games or ghosting/disconnecting/commiting suicide upon not being chosen for an antag role is referred to as "antag-rolling" and it is against the rules.
-Plenty of people patiently wait for their turn to be antagonists, so [color=#a4885c]we kindly ask you to refrain from opting-in to an antagonist role if you aren't ready[/color].
+Dołączanie do wielu gier lub zniknięcie z gry, rozłączenie się lub „samobójstwo” w przypadku, gdy nie zostaniesz wybrany do roli antagonisty, nazywa się „antag-rollingiem” i jest to niezgodne z zasadami.
+Wiele osób cierpliwie czeka na swoją kolej, by wcielić się w rolę antagonistów, więc [color=#a4885c]Uprzejmie prosimy, abyście nie zgłaszali się do roli antagonisty, jeśli nie jesteście na to gotowi[/color].
 
-## Traits
-Speech traits alter your speech, sometimes to an extreme degree.
+## Cechy
+Cechy mowy zmieniają sposób, w jaki mówisz, czasami w skrajnym stopniu.
 
-They include:
-- Accentless (disables the accent of your selected species)
-- Cowboy accent (word replacement, partner)
-- Frontal lisp ("s" is replaced with "th")
-- Italian accent (Mamma-mia, word replacement)
-- Pathological liar (word replacement, changes words like "yes" to "no")
-- Pirate accent (Arrgh, word replacement)
-- Social anxiety (s-s-stutter)
-- Southern Drawl (replaces "-ing" with "-in'" and similar changes)
+Obejmują one:
+- Bez akcentu (wyłącza akcent wybranego gatunku)
+- Akcent kowbojski (zamiana słów, partner)
+- Przednie seplenienie („s” zastępowane jest przez „th”)
+- Akcent włoski (Mamma-mia, zamiana słów)
+- Patologiczny kłamca (zamiana słów, zamiana słów takich jak „tak” na „nie”)
+- Akcent piracki (Arrgh, zamiana słów)
+- Lęk społeczny (jąkanie: „s-s-s”)
+- Południowy akcent (zamiana końcówki „-ing” na „-in’” i podobne zmiany)
 
-You should be comfortable with talking normally or with a minor accent such as Social anxiety or Southern drawl before taking heavy accents like Italian or Cowboy.
+Zanim zaczniesz naśladować silne akcenty, takie jak włoski czy kowbojski, powinieneś czuć się swobodnie, mówiąc normalnie lub z niewielkim akcentem, np. wynikającym z lęku społecznego lub charakterystycznym dla południa Stanów Zjednoczonych.
 
-There are also disabilty traits. Familiarize yourself with the game and the game's flow before taking one of these, as some may become difficult for beginners to deal with.
+Istnieją również cechy związane z niepełnosprawnością. Przed wybraniem jednej z nich warto zapoznać się z grą i jej przebiegiem, ponieważ niektóre z nich mogą stanowić trudność dla początkujących graczy.
 
-They include:
-- Blindness (severely limits your vision)
-- Lightweight drunk (you get drunk faster and you suffer more from the ill-effects of alcohol)
-- Muted (you cannot talk or whisper, but you can still communicate via emotes and pen and paper)
-- Narcolepsy (you randomly fall asleep at unpredictable and often inconvenient times)
-- Pacifist (you cannot hit, shoot, or throw sharp objects at people)
-- Paracusia (you sometimes hear noises that aren't real)
-- Short-sighted (somewhat limits your vision without prescription glasses)
-- Snoring (you make loud snoring sounds when asleep)
-- Unrevivable (you cannot be resuscitated when you meet your untimely demise)
+Obejmują one:
+- Niewidomost (znacznie ogranicza twoje widzenie)
+- Lekki upojenie (szybciej się pijesz i bardziej cierpisz z skutków alkoholu)
+- Bezgłośność (nie możesz mówić ani szeptać, ale nadal możesz komunikować się za pomocą emotek i długopisu)
+- Narkolepsja (losowo zasypiasz się w nieprzewidywalnych i często niedogodnych momentach)
+- Pacefista (nie możesz uderzać, strzelać ani rzucać ostrej broni na ludzi)
+- Parakuzja (czasami słyszysz dźwięki, które nie istnieją)
+- Krótkowzroczność (bez okularów korekcyjnych masz nieco ograniczone widzenie)
+- Chrapanie (podczas snu wydajesz głośne odgłosy chrapania)
+- Niemożność reanimacji (w razie przedwczesnej śmierci nie da się ci przywrócić do życia)
 </Document>
