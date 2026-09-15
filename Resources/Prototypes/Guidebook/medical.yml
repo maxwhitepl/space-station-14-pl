@@ -1,4 +1,4 @@
-ssssssssssssss- type: guideEntry
+- type: guideEntry
   id: Medical
   name: guide-entry-medical
   text: "/ServerInfo/Guidebook/Medical/Medical.xml"
