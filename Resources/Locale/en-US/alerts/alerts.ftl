@@ -1,34 +1,34 @@
-alerts-low-oxygen-name = [color=red]Low Oxygen[/color]
-alerts-low-oxygen-desc = There is [color=red]not enough oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-oxygen-name = [color=red]Niski poziom tlenu[/color]
+alerts-low-oxygen-desc = W powietrzu, którym oddychasz, [color=red]nie ma wystarczającej ilości tlenu[/color]. Załóż [color=green]moduły wewnętrzne[/color].
 
-alerts-low-nitrogen-name = [color=red]Low Nitrogen[/color]
-alerts-low-nitrogen-desc = There is [color=red]not enough nitrogen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-nitrogen-name = [color=red]Niska zawartość azotu[/color]
+alerts-low-nitrogen-desc = W powietrzu, którym oddychasz, [color=red]nie ma wystarczającej ilości azotu[/color]. Zamontuj [color=green]podzespoły wewnętrzne[/color].
 
-alerts-high-toxin-name = [color=red]High Toxin Level[/color]
-alerts-high-toxin-desc = There are [color=red]too many toxins[/color] in the air you are breathing. Put on [color=green]internals[/color] or get away.
+alerts-high-toxin-name = [color=red]Wysoki poziom toksyn[/color]
+alerts-high-toxin-desc = W powietrzu, którym oddychasz, znajduje się [color=red]zbyt wiele toksyn[/color]. Załóż [color=green]wyposażenie wewnętrzne[/color] lub uciekaj.
 
-alerts-low-pressure-name = [color=red]Low Pressure[/color]
-alerts-low-pressure-desc = The air around you is [color=red]hazardously thin[/color]. A [color=green]space suit[/color] would protect you.
+alerts-low-pressure-name = [color=red]Niskie ciśnienie[/color]
+alerts-low-pressure-desc = Powietrze wokół ciebie jest [color=red]niebezpiecznie rzadkie[/color]. [color=green]Kombinezon kosmiczny[/color] by cię ochronił.
 
-alerts-high-pressure-name = [color=red]High Pressure[/color]
-alerts-high-pressure-desc = The air around you is [color=red]hazardously thick[/color]. A [color=green]pressurized suit[/color] would be enough to protect you.
+alerts-high-pressure-name = [color=red]Wysokie ciśnienie[/color]
+alerts-high-pressure-desc = Powietrze wokół ciebie jest [color=red]niebezpiecznie gęste[/color]. Do ochrony wystarczyłby [color=green]kombinezon ciśnieniowy[/color].
 
-alerts-on-fire-name = [color=red]On Fire[/color]
-alerts-on-fire-desc = You're [color=red]on fire[/color]. Click the alert to stop, drop and roll to put the fire out or move to a vacuum area.
+alerts-on-fire-name = [color=red]W ogniu[/color]
+alerts-on-fire-desc = Płoniesz. Kliknij powiadomienie, aby wykonać manewr „padnij i turlaj się” i ugasić ogień, albo udaj się w miejsce pozbawione powietrza.
 
-alerts-too-cold-name = [color=cyan]Too Cold[/color]
-alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer and take off any insulating clothing like a space suit.
+alerts-too-cold-name = [color=cyan]Za zimno[/color]
+alerts-too-cold-desc = Jesteś [color=cyan]przemarznięty na kość![/color] Udaj się w cieplejsze miejsce i zdejmij wszelką odzież izolacyjną, taką jak skafander kosmiczny.
 
-alerts-too-hot-name = [color=red]Too Hot[/color]
-alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
+alerts-too-hot-name = [color=red]Zbyt gorąco[/color]
+alerts-too-hot-desc = Jest [color=red]zbyt gorąco![/color] Udaj się w chłodniejsze miejsce, zdejmij odzież izolującą, taką jak skafander kosmiczny, albo przynajmniej oddal się od płomieni.
 
-alerts-weightless-name = Weightless
+alerts-weightless-name = Nieważki
 alerts-weightless-desc =
-    Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
-    Mag-boots or jetpacks would help you move with more control.
+    Grawitacja przestała na ciebie oddziaływać i unosisz się bezwładnie w powietrzu. Znajdź coś solidnego, czego możesz się chwycić, albo rzuć lub wystrzel coś w kierunku przeciwnym do tego, w którym się poruszasz.
+    Magnetyczne buty lub plecaki odrzutowe pozwoliłyby ci poruszać się z większą kontrolą.
 
-alerts-walking-name = Walking
-alerts-walking-desc = You are walking, moving at a slow pace.
+alerts-walking-name = Pieszy
+alerts-walking-desc = Idziesz, poruszając się powolnym krokiem.
 
 alerts-knockdown-name = [color=yellow]Knocked Down[/color]
 alerts-knockdown-desc = You're [color=yellow]Knocked Down[/color]! Something has slipped or pushed you over, encumbering your movement.
