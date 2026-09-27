@@ -30,89 +30,89 @@ alerts-weightless-desc =
 alerts-walking-name = Pieszy
 alerts-walking-desc = Idziesz, poruszając się powolnym krokiem.
 
-alerts-knockdown-name = [color=yellow]Knocked Down[/color]
-alerts-knockdown-desc = You're [color=yellow]Knocked Down[/color]! Something has slipped or pushed you over, encumbering your movement.
+alerts-knockdown-name = [color=yellow]Powalony[/color]
+alerts-knockdown-desc = Zostałeś [color=yellow]powalony[/color]! Coś sprawiło, że poślizgnąłeś się lub ktoś cię popchnął, utrudniając ci poruszanie się.
 
-alerts-handcuffed-name = [color=yellow]Handcuffed[/color]
-alerts-handcuffed-desc = You're [color=yellow]handcuffed[/color] and can't use your hands. If anyone drags you, you won't be able to resist.
+alerts-handcuffed-name = [color=yellow]W kajdankach[/color]
+alerts-handcuffed-desc = Jesteś [color=yellow]skuty kajdankami[/color] i nie możesz używać rąk. Jeśli ktoś cię pociągnie, nie będziesz w stanie się oprzeć.
 
-alerts-ensnared-name = [color=yellow]Ensnared[/color]
-alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing your ability to move. Click with a free hand to remove.
+alerts-ensnared-name = [color=yellow]W pułapce[/color]
+alerts-ensnared-desc = Jesteś [color=yellow]uwięziony[/color], co ogranicza twoją zdolność poruszania się. Kliknij wolną ręką, aby się uwolnić.
 
-alerts-buckled-name = [color=yellow]Buckled[/color]
-alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Click the alert to unbuckle unless you're [color=yellow]handcuffed.[/color]
+alerts-buckled-name = [color=yellow]Wypaczone[/color]
+alerts-buckled-desc = Zostałeś [color=yellow]przypięty[/color] do czegoś. Kliknij powiadomienie, aby się odpiąć, chyba że masz [color=yellow]kajdanki.[/color]
 
-alerts-crit-name = [color=red]Critical Condition[/color]
-alerts-crit-desc = You're severely injured and unconscious.
+alerts-crit-name = [color=red]Stan krytyczny[/color]
+alerts-crit-desc = Jesteś ciężko ranny lub nieprzytomny.
 
-alerts-dead-name = Dead
-alerts-dead-desc = You're dead, note that you can still be revived!
+alerts-dead-name = Martwy
+alerts-dead-desc = Nie żyjesz, ale pamiętaj, że nadal można cię ożywić!
 
-alerts-health-name = Health
-alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
+alerts-health-name = Zdrowie
+alerts-health-desc = [color=green]Zielone[/color] Stabilne. [color=red]Czerwone[/color] Krytyczne.
 
-alerts-battery-name = Battery
-alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
+alerts-battery-name = Bateria
+alerts-battery-desc = Jeśli bateria się wyczerpie, nie będziesz mógł korzystać ze swoich umiejętności.
 
-alerts-no-battery-name = No Battery
-alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
+alerts-no-battery-name = Brak baterii
+alerts-no-battery-desc = Nie masz baterii, przez co nie możesz ładować urządzenia ani korzystać ze swoich umiejętności.
 
-alerts-internals-name = Toggle internals
-alerts-internals-desc = Toggles your gas tank internals on or off.
+alerts-internals-name = Przełącz elementy wewnętrzne
+alerts-internals-desc = Włącza lub wyłącza elementy wewnętrzne zbiornika paliwa.
 
-alerts-piloting-name = Piloting Shuttle
-alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
+alerts-piloting-name = Pilotowanie promu.
+alerts-piloting-desc = Pilotujesz prom kosmiczny. Kliknij komunikat ostrzegawczy, aby się zatrzymać.
 
-alerts-hunger-name = [color=yellow]Peckish[/color]
-alerts-hunger-desc = Some food would be good right about now.
+alerts-hunger-name = [color=yellow]Głód[/color]
+alerts-hunger-desc = Właśnie teraz przydałoby się coś do jedzenia.
 
 alerts-stamina-name = Stamina
-alerts-stamina-desc = Stuns you if it is too low.
+alerts-stamina-desc = Jeśli poziom jest zbyt niski, to cię ogłusza.
 
-alerts-starving-name = [color=red]Starving[/color]
-alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
+alerts-starving-name = [color=red]Głodowanie[/color]
+alerts-starving-desc = Jesteś poważnie niedożywiony. Bóle spowodowane głodem sprawiają, że poruszanie się staje się uciążliwe.
 
-alerts-thirsty-name = [color=yellow]Thirsty[/color]
-alerts-thirsty-desc = Something to drink would be good right about now.
+alerts-thirsty-name = [color=yellow]Spragniony[/color]
+alerts-thirsty-desc = W tej chwili przydałoby się coś do picia.
 
-alerts-parched-name = [color=red]Parched[/color]
-alerts-parched-desc = You're severely thirsty. The thirst makes moving around a chore.
+alerts-parched-name = [color=red]Wyschnięty[/color]
+alerts-parched-desc = Jesteś strasznie spragniony. Pragnienie sprawia, że poruszanie się staje się uciążliwe.
 
-alerts-vow-broken-name = Vow Broken
-alerts-vow-broken-desc = You've broken your vows to Mimes everywhere. You can speak and write, but you've lost your powers for at least 5 entire minutes!!! Click to try and retake your vow.
+alerts-vow-broken-name = Złamana przysięga
+alerts-vow-broken-desc = Złamałeś przysięgę złożoną wszystkim Mimów. Potrafisz mówić i pisać, ale straciłeś swoje moce na co najmniej 5 pełnych minut!!! Kliknij, aby spróbować ponownie złożyć przysięgę.
 
-alerts-pulled-name = Pulled
-alerts-pulled-desc = You're being pulled. Move to break free.
+alerts-pulled-name = Ciągnięcie
+alerts-pulled-desc = Ktoś cię ciągnie. Poruszaj się, żeby się uwolnić.
 
-alerts-pulling-name = Pulling
-alerts-pulling-desc = You're pulling something. Click the alert to stop.
+alerts-pulling-name = Ciągnięcie
+alerts-pulling-desc = Coś ciągniesz. Kliknij powiadomienie, aby to zatrzymać.
 
-alerts-bleed-name = [color=red]Bleed[/color]
-alerts-bleed-desc = You're [color=red]bleeding[/color].
+alerts-bleed-name = [color=red]Krwawienie[/color]
+alerts-bleed-desc = Właśnie się [color=red]Wykrwawiasz[/color].
 
-alerts-pacified-name = [color=green]Pacified[/color]
-alerts-pacified-desc = You're pacified; you won't be able to harm living creatures.
+alerts-pacified-name = [color=green]Uspokojony[/color]
+alerts-pacified-desc = Jesteś uspokojony; nie będziesz w stanie wyrządzić krzywdy żywym istotom.
 
-alerts-suit-power-name = Suit Power
-alerts-suit-power-desc = How much power your space ninja suit has.
+alerts-suit-power-name = Moc
+alerts-suit-power-desc = Jaką moc ma twój kombinezon kosmicznego ninja?
 
 alerts-magboots-name = Magboots
-alerts-magboots-desc = You are immune to airflow, but slightly slower.
+alerts-magboots-desc = Jesteś odporny na prądy powietrza, ale poruszasz się nieco wolniej.
 
-alerts-revenant-essence-name = Essence
-alerts-revenant-essence-desc = The power of souls. It sustains you and is used for abilities. It regenerates slowly over time.
+alerts-revenant-essence-name = Esencja
+alerts-revenant-essence-desc = Moc dusz. Zapewnia ci energię i służy do korzystania z umiejętności. Z czasem powoli się odnawia.
 
-alerts-revenant-corporeal-name = Corporeal
-alerts-revenant-corporeal-desc = You have manifested physically. People around you can see and hurt you.
+alerts-revenant-corporeal-name = Cielesny
+alerts-revenant-corporeal-desc = Ujawniłeś się w świecie fizycznym. Ludzie wokół ciebie mogą cię widzieć i skrzywdzić.
 
-alerts-rooted-name = Rooted
-alerts-rooted-desc = You are attached to the ground. You can't slip, but you absorb fluids under you.
+alerts-rooted-name = Zakorzeniony
+alerts-rooted-desc = Jesteś przytwierdzony do podłoża. Nie możesz się poślizgnąć, ale wchłaniasz płyny znajdujące się pod tobą.
 
-alerts-stealthy-name = Pickpocketing
-alerts-stealthy-desc = Whether you are currently pickpocketing. Click to toggle.
+alerts-stealthy-name = Kradzież kieszonkowa
+alerts-stealthy-desc = Czy w tej chwili kradniesz z kieszeni? Kliknij, aby wyświetlić/ukryć.
 
-alerts-prying-name = Prying
-alerts-prying-desc = You can innately pry doors open using alternative interaction.
+alerts-prying-name = Wścibstwo
+alerts-prying-desc = Możesz w naturalny sposób otwierać drzwi, korzystając z alternatywnej formy interakcji.
 
-alerts-changeling-chemicals-name = Chemicals
-alerts-changeling-chemicals-desc = The chemicals stored within our glands. We use them for many of our abilities to function. They regenerate over time.
+alerts-changeling-chemicals-name = Środki chemiczne
+alerts-changeling-chemicals-desc = Substancje chemiczne zgromadzone w naszych gruczołach. Wykorzystujemy je do funkcjonowania wielu naszych zdolności. Z czasem ulegają one regeneracji.

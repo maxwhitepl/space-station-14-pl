@@ -1,14 +1,14 @@
-alerts-adrenaline-name = [color=red]Adrenaline[/color]
-alerts-adrenaline-desc = You're full of adrenaline: pain won't slow you down.
+alerts-adrenaline-name = [color=red]Adrenalina[/color]
+alerts-adrenaline-desc = Jesteś pełen adrenaliny: ból cię nie powstrzyma.
 
-alerts-drunk-name = [color=yellow]Drunk[/color]
-alerts-drunk-desc = Recreational poison has made things more difficult for you.
+alerts-drunk-name = [color=yellow]Pijany[/color]
+alerts-drunk-desc = Narkotyki rekreacyjne sprawiły, że sytuacja stała się dla ciebie trudniejsza.
 
-alerts-muted-name = Muted
-alerts-muted-desc = You have lost the ability to speak.
+alerts-muted-name = Uciszony
+alerts-muted-desc = Straciłeś zdolność mówienia.
 
-alerts-stunned-name = [color=yellow]Stunned[/color]
-alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
+alerts-stunned-name = [color=yellow]Oszołomiony[/color]
+alerts-stunned-desc = Jesteś [color=yellow]oszołomiony[/color]! Coś ogranicza twoją zdolność do poruszania się lub interakcji z przedmiotami.
 
-alerts-vow-silence-name = Vow of Silence
-alerts-vow-silence-desc = You have taken a vow forbidding verbal or written communication as part of initiation into the Mystiko Tagma Mimon. Click to break your vow.
+alerts-vow-silence-name = Ślubowanie milczenia
+alerts-vow-silence-desc = Złożyłeś przysięgę zakazującą komunikacji ustnej lub pisemnej w ramach inicjacji do Mystiko Tagma Mimon. Kliknij, aby złamać tę przysięgę.

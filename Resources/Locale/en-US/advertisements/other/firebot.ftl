@@ -1,4 +1,4 @@
-advertisement-firebot-1 = No fires detected.
-advertisement-firebot-2 = Only you can prevent station fires.
-advertisement-firebot-3 = Temperature nominal.
-advertisement-firebot-4 = Keep it cool.
+advertisement-firebot-1 = Nie wykryto żadnych pożarów.
+advertisement-firebot-2 = Tylko Ty możesz zapobiec pożarom na stacjach.
+advertisement-firebot-3 = Temperatura nominalna.
+advertisement-firebot-4 = Zachowaj spokój.
