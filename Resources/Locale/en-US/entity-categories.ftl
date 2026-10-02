@@ -1,6 +1,6 @@
-entity-category-name-actions = Actions
-entity-category-name-game-rules = Game Rules
-entity-category-name-objectives = Objectives
+entity-category-name-actions = Akcje
+entity-category-name-game-rules = Regulamin
+entity-category-name-objectives = Zadania
 entity-category-name-roles = Mind Roles
 entity-category-name-mapping = Mapping
 entity-category-name-donotmap = Do not map
