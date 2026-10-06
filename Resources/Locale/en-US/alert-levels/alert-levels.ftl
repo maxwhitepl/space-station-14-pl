@@ -1,7 +1,7 @@
 alert-level-announcement = Uwaga! Poziom alarmowy stacji wynosi obecnie {$name}! {$announcement}
 
-alert-level-unknown = Brak.
-alert-level-unknown-instructions = Brak.
+alert-level-unknown = Unknown.
+alert-level-unknown-instructions = Unknown.
 
 alert-level-green = Zielony
 alert-level-green-announcement = Można już bezpiecznie wrócić do miejsc pracy.

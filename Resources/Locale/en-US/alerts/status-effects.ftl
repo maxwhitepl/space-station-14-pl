@@ -10,5 +10,8 @@ alerts-muted-desc = Straciłeś zdolność mówienia.
 alerts-stunned-name = [color=yellow]Oszołomiony[/color]
 alerts-stunned-desc = Jesteś [color=yellow]oszołomiony[/color]! Coś ogranicza twoją zdolność do poruszania się lub interakcji z przedmiotami.
 
-alerts-vow-silence-name = Ślubowanie milczenia
-alerts-vow-silence-desc = Złożyłeś przysięgę zakazującą komunikacji ustnej lub pisemnej w ramach inicjacji do Mystiko Tagma Mimon. Kliknij, aby złamać tę przysięgę.
+alerts-vow-silence-name = Vow of Silence
+alerts-vow-silence-desc = You have taken a vow forbidding verbal or written communication as part of initiation into the Mystiko Tagma Mimon. Click to break your vow.
+
+alerts-blind-name = Blind
+alerts-blind-desc = You can't quite make out what's happening around you.
